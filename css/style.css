@@ -1,0 +1,10 @@
+span{
+    background-color: red;
+    color: white;
+    display: none;
+    padding-left: 1rem;
+}
+
+#saveEdit,#cancelEdit{
+    display: none;
+}
